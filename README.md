@@ -1,2 +1,2 @@
-# ai
-Artificial Intelligence
+# uc-artificial-intelligence
+University of Cincinnati - Artificial Intelligence
